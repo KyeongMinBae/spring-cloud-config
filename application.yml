@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000 
-  secret: my-very-long-secret-key-1234567890123456-from-repo-application
+  secret: '{cipher}AYBO27rmr1IHreETaq3Y3YwRIfOHWTMaJpM+IVgjrh4IvhkxaIiF8PqK/nvsqvXUf+IgF3mZ8oZ0vylBw6hnd3IgGyMPe/aJzZZQ+YAUTrsQNOpYVev9VUDFeuU4UmjFf59prsOMLc5C+UFH4MUjXnsgphf9FoGPPvi0pZQzXd/MenBrX7N8xPhO1xqaRNiL5t6rGdxXrg6hwX/WsP0AUkEKlqdSzIl4JzWuQ/tZ34mtEzrk3n41iZDKbtttTgsswqZ3xCXLNoVUOvd82tqOxdTVWEYDa99leMPFnihJ0eRjq2rFHRLRsaBguBvDaRV01gmdwvMCPDcLS0u2g4Fy/wr/xAH8r0wsB8g3ECWkkq9U2BSq50TPV366zKX7B+aleGwqA6c+byHFNmeqL3nQeVIa/oo99IVcIMPlg0EMuy8xseXhUCPsyRUIfEXAklcjrWEKAsc0/jVnmnWIXo+kAd4EdefBNXv8w0g3fc4Ky3WCWo16I2c+w/v3642DdMfHRrbBHYP3QyTctQmsKBreJkYLDuWFJROZij/KWChA+p5aKQfiG9NyOgn/2R0VQrP7m+NF8YOSTfQ/qw2a4Ufl0suaKQ3dfARpolveE1H6k5NBow=='
 
 gateway:
   ip: 172.18.0.1
