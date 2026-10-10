@@ -4,6 +4,8 @@ spring:
     url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;
     username: sa
     password: '{cipher}AYABjNo0zQb3g8wYFuOZkuhae3LjONc3r1jmjXl0GrkQVmNFujhDbPsHpUamvqbVQR6n/Z17/FfJXAXvGReN2xcFGkPe9SvePcgFJ2R/9v23l2gmZqmnFy0dlOmAI/yaf5hNt1ZwO1JGmV9fIfBwghWbbvCfWbf1eukaiicuWGFT3wrJXjfwPvWCj/H9wQtI31DzGLjMZQVbnx+ySOjqPZ5yzhHA8Q3RUsVqXUXSSQzQC0wXoJl40Kd64+k2BeUdbb2kg1Mg4RURjB5xxkP35pxHU6/WdYhED2714j7S7LqTRxpMPUueUmdaVEif3ZhaCYDHT88EjYokLQFUdVCHP9ZwMgUJXHqxP+ZY4h00U+h2Fsj4v72jwoAcI6hS8H1BUoGDCaqgSveWrZl+THkudhEKzrgOPtaWPNY9lFF+qv/KCYQULy8OEy7y3Guj3Zr54M4qPUMraTfAFY99xUiRUhnRvjgtfKyMRAVOhbPFPLEkXWiTGcm94Imq6oBQeT131tKwXo8/caERYZ7hGnKHwYol38fPzT/5u4yK0GSRF5JMjg=='
+gateway:
+  ip: 172.18.0.5
 
 order-service:
  # url: http://127.0.0.1:8000/order-service/%s/orders
